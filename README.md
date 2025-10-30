@@ -17,6 +17,8 @@
 ## Структура проекта
 ```
 projc/
+├── images/
+│   └── clustering_result.jpg
 ├── CMakeLists.txt
 ├── main.c
 ├── kmeans.h
