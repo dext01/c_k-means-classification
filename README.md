@@ -49,3 +49,5 @@ make
 
 ## Пример:
 - ./projc 100 3 42
+
+![Пример вывода программы](images/clustering_result.jpg)
