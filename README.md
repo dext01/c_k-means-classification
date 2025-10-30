@@ -50,4 +50,5 @@ make
 ## Пример:
 - ./projc 100 3 42
 
-![Пример вывода программы](c_k-means-classification/projc(2)/images/clustering_result.jpg)
+## Пример вывода программы лежит в:
+- c_k-means-classification/projc(2)/images/clustering_result.jpg
